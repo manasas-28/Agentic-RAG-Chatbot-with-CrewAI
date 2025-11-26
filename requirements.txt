@@ -1,0 +1,13 @@
+groundx
+crewai
+crewai[tools]
+llama-index
+serper
+PyPDF2
+langchain
+langchain-community
+litellm
+serperapi
+ollama-python
+streamlit
+python-dotenv
