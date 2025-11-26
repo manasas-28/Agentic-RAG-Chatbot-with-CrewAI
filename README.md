@@ -1,7 +1,5 @@
 # Agentic-RAG-Chatbot-with-CrewAI
 
-# Agentic RAG Chatbot with CrewAI
-
 ## Description
 
 This project is an interactive chatbot that answers questions about PDF documents. It uses a powerful technique called Retrieval-Augmented Generation (RAG) to provide accurate answers. Users can upload a PDF, and the application will use a team of AI agents, built with `crewai`, to find the most relevant information within the document and generate a comprehensive response.
