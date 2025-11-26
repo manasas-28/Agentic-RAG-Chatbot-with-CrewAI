@@ -1,4 +1,4 @@
-# Agentic-RAG-Chatbot-with-CrewAI
+# Agentic RAG Chatbot with CrewAI  
 
 ## Description
 
